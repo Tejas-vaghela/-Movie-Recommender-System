@@ -1,2 +1,1 @@
-# -Movie-Recommender-System
-🎬 Movie Recommender System
+This project is a content-based movie recommender system built using Python, pandas, scikit-learn, and Streamlit for the frontend. It helps users discover movies similar to the one they like by analyzing features such as genre, overview, keywords, cast, and crew. Poster images are fetched using the TMDb (The Movie Database) API.
